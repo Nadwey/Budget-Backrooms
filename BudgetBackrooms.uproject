@@ -15,16 +15,6 @@
 	],
 	"Plugins": [
 		{
-			"Name": "Substance",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/2f6439c2f9584f49809d9b13b16c2ba4"
-		},
-		{
-			"Name": "DungeonGeneratorPlugin",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/3ef6cc9c5400434784446008160cb5c7"
-		},
-		{
 			"Name": "Water",
 			"Enabled": true
 		},
@@ -32,11 +22,6 @@
 			"Name": "FlatNodes",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/b719437f3fb54c259b34227363df8cab"
-		},
-		{
-			"Name": "TimeClock",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/6f6a4afb66af43deb946a48b78d8c80a"
 		},
 		{
 			"Name": "DisasterRecoveryClient",
@@ -71,11 +56,6 @@
 			"Name": "AchievementSystem",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/d9f6e0a8c92f47db9e2fde6080bed630"
-		},
-		{
-			"Name": "LDAssistant",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/51c5a9a0d5f84beba23aab69bed8d28c"
 		},
 		{
 			"Name": "VisualStudioTools",
@@ -418,18 +398,9 @@
 			"Enabled": true
 		},
 		{
-			"Name": "ConsoleEnhanced",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/86123c85a4474d609c5cef8a7fc5786b"
-		},
-		{
 			"Name": "UltimateWindowPolice",
 			"Enabled": false,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/46a05b6e073c4bc2ac65d62e9ae1d1d6"
-		},
-		{
-			"Name": "FSR",
-			"Enabled": true
 		},
 		{
 			"Name": "GameplayInsights",
@@ -465,11 +436,6 @@
 			"SupportedTargetPlatforms": [
 				"Win64"
 			]
-		},
-		{
-			"Name": "Xsolla",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/e32fb866a54a4a36a2359fb7a5251b59"
 		},
 		{
 			"Name": "ArchVisCharacter",
